@@ -1,0 +1,5 @@
+{
+  "auth": {
+    "passwordPattern": "Password should 6 letters at least"
+  }
+}

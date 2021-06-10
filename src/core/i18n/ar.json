@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "passwordPattern": "كلمة المرور يجب ان تتكون من 6 حرف على الاقل",
+    "emailOrPhoneAlreadyExists": "الايميل او الموبيل موجود بالفعل",
+    "invalidEmailOrPassword": "ربما الايميل او الباسورد غير صالحين",
+    "emailNotExists": "الايميل غير موجود",
+    "invalidOldPassword": "الباسورد القديم غير صحيح",
+    "userNoExists": "المستخدم غير موجود"
+  }
+}
